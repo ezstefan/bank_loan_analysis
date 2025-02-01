@@ -4,10 +4,6 @@
 
   This project utilizes SQL and Tableau to analyze a dataset of U.S. bank loan data for the year 2021, <br /> generating a Tableau visualization report that consists of three dashboards: Summary, Overview, and Details.
 
-  <p align="center">
-  <a href="https://public.tableau.com/app/profile/sylvia.li4170/viz/BankLoanDataAnalysis/SUMMARY"><strong>➥ Live Demo</strong></a>
-  </p>
-
   <br />
   
   *Dashboard Demo Screenshots*
